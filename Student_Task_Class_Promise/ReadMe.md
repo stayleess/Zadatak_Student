@@ -3,9 +3,9 @@
  ASSIGNMENT - READING STUDENT DATA:
 
 
- I created two methods to extract data and to display them through Class Object Student.
  Create JS Code that will read Student Data from external .txt file;
  Create Studdent Object from this file;
+ I created two methods to extract data and to display them through Class Object Student.
  Use Class as template for Student objects;
  Use PROMISE and ASYNC to complete a task
 
